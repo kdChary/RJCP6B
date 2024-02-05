@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Bree Serif';
+}
+
+.destination {
+  list-style-type: none;
+  width: 50%;
+}
+
+.destination-image {
+  max-width: 80%;
+  flex-grow: 1;
+}
+
+.name {
+  font-size: 12px;
+  font-weight: 500;
+  color: #0f172a;
+  margin-bottom: 11px;
+}
